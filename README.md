@@ -10,7 +10,7 @@ termux-setup-storage
 
 📥 Clone Project
 
-git clone https://github.com/YOUR_USERNAME/amit-yt-downloader.git
+git clone https://github.com/amitdaskne/amit-yt-downloader.git
 cd amit-yt-downloader
 
 ▶️ Run
