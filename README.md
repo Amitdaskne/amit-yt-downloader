@@ -5,12 +5,15 @@ Simple Termux-based YouTube & Facebook video downloader using yt-dlp.
 🚀 Installation (Termux)
 
 pkg update && pkg upgrade
-pkg install python git yt-dlp -y
+
+pkg install python
+
 termux-setup-storage
 
 📥 Clone Project
 
 git clone https://github.com/amitdaskne/amit-yt-downloader.git
+
 cd amit-yt-downloader
 
 ▶️ Run
